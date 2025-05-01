@@ -1,3 +1,4 @@
+![Cover](Hi.png)
 # 💫 About Me:
 👨‍💻 I’m Alok Kumar, a professional MERN Stack Web Developer.<br>🛠️ I specialize in building responsive, scalable, and high-performance web applications using MongoDB, Express.js, React.js, and Node.js.<br>🎓 I’m currently pursuing a Bachelor of Arts degree from the National University of Bangladesh.<br>🚀 I quickly adapt to new technologies and continuously improve my skills to stay ahead in the field.<br>🤝 I'm open to collaborating with organizations or teams where I can contribute and grow.<br>💡 I have a strong passion for problem-solving and creating user-friendly digital experiences.<br>🥁 In my free time, I enjoy playing the drums and reading books, both of which help me stay creative, focused, and constantly inspired.<br>📫 Reach me at: Alok61.bd@gmail.com<br><br><br>
 
