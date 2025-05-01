@@ -2,6 +2,18 @@
 # 💫 About Me:
 👨‍💻 I’m Alok Kumar, a professional MERN Stack Web Developer.<br>🛠️ I specialize in building responsive, scalable, and high-performance web applications using MongoDB, Express.js, React.js, and Node.js.<br>🎓 I’m currently pursuing a Bachelor of Arts degree from the National University of Bangladesh.<br>🚀 I quickly adapt to new technologies and continuously improve my skills to stay ahead in the field.<br>🤝 I'm open to collaborating with organizations or teams where I can contribute and grow.<br>💡 I have a strong passion for problem-solving and creating user-friendly digital experiences.<br>🥁 In my free time, I enjoy playing the drums and reading books, both of which help me stay creative, focused, and constantly inspired.<br>📫 Reach me at: Alok61.bd@gmail.com<br><br><br>
 
+I build modern, responsive, and scalable web applications with a strong focus on clean architecture and smooth user experience.  
+I also work with:
+
+- **Next.js** – for server-side rendering and performance  
+- **Redux / RTK Query** – for state and data management  
+- **Tailwind CSS** – for fast and responsive styling  
+- **React Hook Form + Zod** – for form validation  
+- **NextAuth.js** – for secure authentication  
+- **Express.js + Mongoose** – for backend API development  
+- **SSLCommerz** – for integrating secure payment gateways
+
+I'm always eager to learn new technologies and build impactful web solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alokkumarwebdeveloper) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alokkumar.das) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16778478) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kumar_alok95916) 
